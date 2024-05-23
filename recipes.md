@@ -115,3 +115,5 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 10. Increased amount of chocolate chips in Chocolate Chip Cookies recipe
+
+### Ice-Cream
