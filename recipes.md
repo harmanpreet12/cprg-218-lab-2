@@ -59,6 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- sugar
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -114,9 +115,3 @@ Instructions:
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
 10. Increased amount of chocolate chips in Chocolate Chip Cookies recipe
-
-
-### Spagheti and Meatballs recipe
-ingredients
-### Grilled Chicken Sandwitch recipe
-ingridents
